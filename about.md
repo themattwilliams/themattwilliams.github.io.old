@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Matt Williams 
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I slap keyboards professionally: I teach software development in the Galvanize immersive program in San Francisco. The program focuses on NodeJS, AngularJS, React, SQL, jQuery, Javascript, HTML/CSS and computer science fundamentals. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I have the pleasure of helping a group of students who are do-ers, and who want to make a change in their lives, to become highly skilled full stack web developers. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I also wear funny hats, make terrible programming puns, and break into song and dance at random intervals.
