@@ -101,8 +101,5 @@ Now let's breakdown the SQL statement above so we can get a better understanding
 Ready to populate your table with some data? Check out the [next step][part-2]!
 
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
 [postgres-app]: http://postgresapp.com/
 [part-2]: {{ site.url }}/thing.html
