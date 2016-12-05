@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Matt Williams 
+title: About the Author
 permalink: /about/
 ---
 
