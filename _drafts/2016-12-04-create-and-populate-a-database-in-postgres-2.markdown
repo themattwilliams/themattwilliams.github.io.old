@@ -59,4 +59,4 @@ Want to review setting up your Postgres and creating a database? [Let's review!]
 
 [postgres-app]: http://postgresapp.com/
 [part-1]: {{ site.baseurl }}{% post_url 2016-12-04-create-and-populate-a-database-in-postgres-1 %}
-[part-3]: {{ site.baseurl }}{% post_url 2016-12-04-create-and-populate-a-database-in-postgres-3 %}
+[part-3]: {{ site.baseurl }}{% post_url 2016-12-06-create-and-populate-a-database-in-postgres-3 %}

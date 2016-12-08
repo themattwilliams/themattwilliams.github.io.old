@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using Postgres: Creating and Populating a Database — A Friendly Tutorial"
+title:  "Using Postgres: Creating and Populating a Database — A Friendly Tutorial -- Level 1"
 date:   2016-12-04 17:51:55 -0800
 categories: sql tutorial
 ---
