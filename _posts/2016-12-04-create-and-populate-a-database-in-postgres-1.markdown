@@ -5,6 +5,9 @@ date:   2016-12-04 17:51:55 -0800
 categories: sql tutorial
 ---
 
+
+<img src="http://blog.nordeus.com/files/libraryblog/articles/postgres/postgresql_logo.png" alt="PostgreSQL" style="height: 200px;"/>
+
 ## Getting Postgres Installed and Set Up
 
 Okay, you decided to learn SQL. More than just learning SQL, you’ve decided to learn Postgres. Good for you! Postgres is amazing and it’s pretty commonly used out there in the real world, so I want to congratulate you on making the right choice.
