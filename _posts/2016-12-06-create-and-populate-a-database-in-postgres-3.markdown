@@ -49,7 +49,7 @@ Order matters. Notice that the data that we're inserting matches up with the col
 
 The line at the bottom says `INSERT 0 1`. For our purposes just remember that the second number refers to the number of *rows* of data that we have inserted into our table. In this case we only inserted one game (Starcraft) and so the insertion number is`1`.
 
-...and congratulations! You've successfully inserted a row into a table inside a database, all of which you created yourself!
+...and congratulations! You've successfully inserted a row into a table inside a database, all of which you created yourself! Why don't you take a look? Go ahead and type in that same query we used earlier `SELECT * FROM games;`.
 
 A couple of things to keep in mind as you move forward on your SQL database journey: 
 

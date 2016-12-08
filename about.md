@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Matt Williams 
+title: About The Author 
 permalink: /about/
 ---
 
-I slap keyboards professionally: I teach software development in the Galvanize immersive program in San Francisco. The program focuses on NodeJS, AngularJS, React, SQL, jQuery, Javascript, HTML/CSS and computer science fundamentals. 
+The author slap keyboards professionally: he teach software development in the Galvanize immersive program in San Francisco, which focuses on NodeJS, AngularJS, React, SQL, jQuery, Javascript, HTML/CSS and computer science fundamentals. 
 
-I have the pleasure of helping a group of students who are do-ers, and who want to make a change in their lives, to become highly skilled full stack web developers. 
+He also wear funny hats, makes terrible programming puns, breaks into song and dance at random intervals, and talks about himself in the third person.
 
-I also wear funny hats, make terrible programming puns, and break into song and dance at random intervals.
+He can be reached through one of the links at the bottom of the page or through [LinkedIn][linked-in]
+
+[linked-in]: https://www.linkedin.com/in/matthewmwilliams
